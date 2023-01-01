@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lotus Flower",
+      "price": 80,
+      "rating": 4,
+      "assertName": "lotus"
+    },
+    {
+      "id": 2,
+      "name": "Orange Flower",
+      "price": 17.6,
+      "rating": 5,
+      "assertName": "orange_flower"
+    },
+    {
+      "id": 3,
+      "name": "Yellow Flower",
+      "price": 40,
+      "rating": 2,
+      "assertName": "yellow_flower"
+    },
+    {
+      "id": 4,
+      "name": "Red Rose Flower",
+      "price": 90,
+      "rating": 5,
+      "assertName": "red_rose"
+    },
+    {
+      "id": 5,
+      "name": "Lily Flower",
+      "price": 15,
+      "rating": 3,
+      "assertName": "lilly"
+    },
+    {
+      "id": 6,
+      "name": "Blue Rose Flower",
+      "price": 80,
+      "rating": 4,
+      "assertName": "blue_rose"
+    },
+    {
+      "id": 7,
+      "name": "Orange Flower",
+      "price": 17.6,
+      "rating": 3,
+      "assertName": "orange_flower"
+    },
+    {
+      "id": 8,
+      "name": "Blue Rose Flower",
+      "price": 40,
+      "rating": 5,
+      "assertName": "blue_flower"
+    },
+    {
+      "id": 9,
+      "name": "Red Rose Flower",
+      "price": 90,
+      "rating": 5,
+      "assertName": "red_rose"
+    },
+    {
+      "id": 10,
+      "name": "Lily Flower",
+      "price": 15,
+      "rating": 3,
+      "assertName": "lilly"
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "name": "Orange Flower",
+      "price": 17.6,
+      "rating": 5,
+      "assertName": "orange_flower"
+    },
+    {
+      "id": 3,
+      "name": "Yellow Flower",
+      "price": 40,
+      "rating": 2,
+      "assertName": "yellow_flower"
+    }
+  ]
+}
