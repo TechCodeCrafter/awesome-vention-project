@@ -43,7 +43,9 @@ function App() {
   // Handles updating the rating of a product and updates state/server
   const onStarSelectionUpdate = (product: IProduct) => {
     const newProduct = [...products];
-    newProduct.push(product);
+    newProduct.forEach((e, index) => {
+      newProduct[index].rating = e.rating;
+    });
     setProducts(newProduct);
     axios.patch(`http://localhost:3001/products/${product.id}`, product);
   };
